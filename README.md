@@ -12,7 +12,7 @@ The following are the results on different KITTI sequences
 ![Seq6](media/Trajectory_sequence_06.png)
 ![Seq7](media/Trajectory_sequence_07.png)
 ![Seq8](media/Trajectory_sequence_08.png)
-![Seq9](media/Trajectory_sequence_08.png)
+![Seq9](media/Trajectory_sequence_09.png)
 ![Seq10](media/Trajectory_sequence_10.png)
 ![Seq11](media/Trajectory_sequence_11.png)
 ![Seq13](media/Trajectory_sequence_13.png)
